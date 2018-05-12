@@ -7,7 +7,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/43548
   - agent_name: Orcutt, William Dana
     alias: Orcutt, Wm. Dana (William Dana)
-    birthdate: &id001 1870
+    birthdate: 1870
     deathdate: 1953
     gutenberg_agent_id: '6050'
     url: http://www.gutenberg.org/2009/agents/6050
@@ -37,7 +37,7 @@ contributor:
     gutenberg_agent_id: '43546'
     url: http://www.gutenberg.org/2009/agents/43546
   - agent_name: Cockerell, Douglas
-    birthdate: *id001
+    birthdate: 1870
     deathdate: 1945
     gutenberg_agent_id: '32163'
     url: http://www.gutenberg.org/2009/agents/32163
@@ -52,6 +52,8 @@ creator:
     gutenberg_agent_id: '41084'
     url: http://www.gutenberg.org/2009/agents/41084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45968#The-Art-of-the-BookTypography-Page-Decoration--amp--Binding
 gutenberg_issued: '2014-06-14'
 gutenberg_type: Text
 identifiers:
