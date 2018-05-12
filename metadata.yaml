@@ -1,0 +1,77 @@
+_repo: The-Art-of-the-BookTypography-Page-Decoration--amp--Binding_45968
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Taylor, E. A.
+    gutenberg_agent_id: '43548'
+    url: http://www.gutenberg.org/2009/agents/43548
+  - agent_name: Orcutt, William Dana
+    alias: Orcutt, Wm. Dana (William Dana)
+    birthdate: &id001 1870
+    deathdate: 1953
+    gutenberg_agent_id: '6050'
+    url: http://www.gutenberg.org/2009/agents/6050
+  - agent_name: Levetus, A. S. (Amelia Sarah)
+    alias: Levetus, Amelia Sarah
+    gutenberg_agent_id: '43451'
+    url: http://www.gutenberg.org/2009/agents/43451
+  - agent_name: Brunius, August
+    birthdate: 1879
+    deathdate: 1926
+    gutenberg_agent_id: '43351'
+    url: http://www.gutenberg.org/2009/agents/43351
+  - agent_name: Deubner, Ludwig
+    aliases:
+    - Deubner, Ludwig August
+    - Deubner, Ludovicus
+    birthdate: 1877
+    deathdate: 1946
+    gutenberg_agent_id: '43547'
+    url: http://www.gutenberg.org/2009/agents/43547
+  - agent_name: Newdigate, Bernard H. (Bernard Henry)
+    aliases:
+    - Newdigate, Bernard Henry
+    - Newdigate, B. H. (Bernard Henry)
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '43546'
+    url: http://www.gutenberg.org/2009/agents/43546
+  - agent_name: Cockerell, Douglas
+    birthdate: *id001
+    deathdate: 1945
+    gutenberg_agent_id: '32163'
+    url: http://www.gutenberg.org/2009/agents/32163
+covers:
+- cover_type: archival
+  image_path: 45968-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Holme, Charles
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '41084'
+    url: http://www.gutenberg.org/2009/agents/41084
+description: ''
+gutenberg_issued: '2014-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45968'
+  lccn: '14016745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Printing -- Specimens'
+- !lcsh 'Bookbinding -- Facsimiles'
+- !lcsh 'Book ornamentation'
+- !lcsh 'Type and type-founding'
+tableOfContents: British types for printing books / B.H. Newdigate -- Fine bookbinding
+  in England / D. Cockerell -- The art of the book in Germany / L. Deubner -- The
+  art of the book in France / E.A. Taylor -- The art of the book in Austria / A.S.
+  Levetus -- The art of the book in Hungary -- The art of the book in Sweden / August
+  Brunius -- The art of the book in America / W.D. Orcutt.
+title: "The Art of the Book\r\nA Review of Some Recent European and American Work\
+  \ in Typography, Page Decoration & Binding"
+url: http://www.gutenberg.org/ebooks/45968
